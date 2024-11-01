@@ -4,11 +4,17 @@ This project aims to analyze road accident data to identify trends, patterns, an
 
 
 **Table of Contents**:
+
 Project Goals
+
 Tools and Technologies
+
 Setup Instructions
+
 Data Analysis Steps
+
 Visualizations
+
 Conclusion
 
 
